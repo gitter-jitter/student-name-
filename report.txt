@@ -1,0 +1,14 @@
+Name of the student : Saswata Das 
+Class Roll of the student : 67 
+Stream of the student : cse 
+Your Student ID is : cse2667
+
+Marks obtained in Math is : 65 
+Marks obtained in Python is : 45 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 94 
+Marks obtained in Biology is : 78 
+Marks obtained in English is : 45 
+
+You have got 404 in total with 67%
+Your performance is average... Work hard... You have passed the exam with grade D.
